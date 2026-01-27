@@ -1,0 +1,9 @@
+# Ignore generated test outputs
+tests/output/
+
+# Python noise
+__pycache__/
+*.pyc
+
+# macOS noise
+.DS_Store
