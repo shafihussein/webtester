@@ -1,3 +1,0 @@
-cat > /Users/shafisscan/Projects/webtester/tests/input/url_12.txt << 'EOF'
-https://httpbin.org/delay/1
-EOF
