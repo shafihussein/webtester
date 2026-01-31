@@ -1,0 +1,12 @@
+website: www.example.com
+1. Supports http2: yes
+2. List of Cookies:
+(none)
+3. Password-protected: no
+--- Additional info ---
+scheme: https
+final port: 443
+resolved ip addresses: 2606:4700::6812:1b78, 2606:4700::6812:1a78, 104.18.26.120, 104.18.27.120
+final uri: https://www.example.com/
+final status code: 200
+redirects followed: 0
